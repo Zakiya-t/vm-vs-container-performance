@@ -1,0 +1,1 @@
+VM application-ready time: 300 ms
